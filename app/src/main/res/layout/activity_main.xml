@@ -8,9 +8,9 @@
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="5dp"
-        android:text=" nao consegues ler cego"
-        android:textSize="1sp"
+        android:layout_height="300dp"
+        android:text="consigo sim!"
+        android:textSize="100sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
