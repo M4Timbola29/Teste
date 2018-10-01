@@ -8,8 +8,8 @@
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="300dp"
-        android:text="consigo sim!"
+        android:layout_height="145dp"
+        android:text="Hello :)"
         android:textSize="100sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
